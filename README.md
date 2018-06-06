@@ -1,6 +1,8 @@
 # VelhoDoido
 
-1\(connection IP-port:22);
+color:
+
+1\(connection IP:xxx.xxx.x.x-port:22xxx);
 
 2\(interface User-Server);
 
